@@ -14,7 +14,7 @@ This is a simple fun fact app made with Vue 3.
 
 ## Screenshots
 
-\[Fun Facts About Rin Okumura](/screenshots/fun-facts.png)
+![Fun Facts About Rin Okumura](/screenshots/fun-facts.png)
 
 
 
